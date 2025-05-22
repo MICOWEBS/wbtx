@@ -1,0 +1,16 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+aiohttp==3.9.5
+asyncpg==0.29.0
+python-dotenv==1.0.1
+web3==6.10.0
+typing_extensions>=4.0
+pytest==8.1.1
+pytest-asyncio==0.23.6
+tenacity==8.2.3
+prometheus-client==0.20.0
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4 
+python-multipart==0.0.7
+nest-asyncio==1.6.0
+gunicorn==21.2.0 
